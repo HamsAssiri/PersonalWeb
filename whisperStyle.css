@@ -202,7 +202,7 @@ h1, h2, h3, h4, h5, h6 {
 .projects {
     padding: 60px 20px;
     text-align: center;
-    background-image: url('Background2.png'); /* Add your image path here */
+    background-image: url('imgs&vids/Background2.png'); /* Add your image path here */
     background-size: cover; /* Ensure the image covers the entire section */
     background-position: center; /* Center the image in the section */
     background-repeat: no-repeat; /* Prevent the image from repeating */
@@ -332,7 +332,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Clubs Contributions Section */
 .clubs-contributions {
-    background-image: url('background3.png'); /* Path to your background image */
+    background-image: url('imgs&vids/background3.png'); /* Path to your background image */
     background-size: cover; /* Cover the entire section */
     background-position: center; /* Center the background image */
     background-repeat: no-repeat; /* Prevent image repetition */
